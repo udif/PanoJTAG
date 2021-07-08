@@ -329,7 +329,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "panojtag.kicad_pro",
+    "filename": "panojtag-tx0104b.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -392,6 +392,15 @@
       "version": 0
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "fix_passive_vals": false,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
@@ -401,7 +410,7 @@
   },
   "sheets": [
     [
-      "989b4041-4f59-47ef-9a46-f63de77ca4f2",
+      "84e60bb4-94a1-43aa-a891-aa5d0a736c44",
       ""
     ]
   ],
