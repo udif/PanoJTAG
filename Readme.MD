@@ -6,4 +6,6 @@ A TX0104B-based design was considered, but abandoned since it has many problems:
 Instead, the sn74avc4t774pw was chosen because it used acive drivers with individual direction pins.
 The only limitation is that the maximum voltage it can drive is 3.6v which is OK for us.
 
+Note that J3 is optional and only used for debugging the JTAG programmer itself.
+
 ![3D Render](panojtag.jpg "3D Render")
